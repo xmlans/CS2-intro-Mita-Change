@@ -6,3 +6,4 @@ The purpose of this plugin is to make it easy to change the CS startup animation
   <img src="https://img.shields.io/badge/License-MIT-pink" alt="License MIT" />
   <img src="https://img.shields.io/github/stars/xmlans/CS2-intro-Mita-Change?style=social&color=ff69b4" alt="GitHub Stars" />
 </div>
+<p><a href="https://github.com/xmlans/CS2-intro-Mita-Change/releases/download/1/replace_intro.exe">点击下载Windows版</a></p>
